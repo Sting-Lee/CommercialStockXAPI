@@ -3,7 +3,7 @@
 CommercialStockXAPI is a project that provides remote HTTP access to the StockX API. It supports all interfaces of this platforms and serves as a global sneaker seller's tool, assisting in automating processes such as selling sneakers. The interfaces are actively maintained to ensure long-term availability.
 
 For detailed information about the interfaces, please refer to the following guides:
-- [StockX API documentation(Online testing interface)](http://stockxapi.dataspiderhub.com/docs) or [StockX API documentation(Online testing interface)](http://stockxapi.dataspiderhub.com/redoc)
+- [StockX API documentation 1(Online testing interface)](http://stockxapi.dataspiderhub.com/docs) or [StockX API documentation 2(Online testing interface)](http://stockxapi.dataspiderhub.com/redoc)
 
 Python sample code can be found in the `python` directory.
 
@@ -30,6 +30,9 @@ CommercialStockXAPI supports the following interfaces for StockX:
   - Query the order detail. Return the order detail.
   - Enable vacation mode
   - Create shipment
+  - Get shipment list
+  - Get shipment details(include shipping label url)
+  - Request shipping extension
   - Cancel product listing
   - Modify/Update product price (individual/batch)
   - List products for sale (individual/batch)
@@ -56,3 +59,6 @@ The fee is based on the total monthly call volume and is paid on a monthly basis
 | 300,000~2,000,000    | $800                                    | 0.0004/req            |
 | 2,000,000~10,000,000 | $1600                                   | 0.00016/req           |
 | >10,000,000          | Pending(Exclusive deployment resources) | <0.00016/req          |
+
+Contact us to request a trial period (one week) and get a discount. 
+If you have additional requirements or need further assistance, feel free to discuss them with us.
