@@ -46,6 +46,7 @@ For access and inquiries, please reach out to:
 
 - Discord: sting_lee
 - E-Mail: mocca_lee@outlook.com
+- Skype: mocca_lee@outlook.com (Name:Sting | ID: live:.cid.c7e659cd5c4c98e8)
 
 Contact us to request a trial period (one week). If you have additional requirements or need further assistance, feel free to discuss them with us.
 
