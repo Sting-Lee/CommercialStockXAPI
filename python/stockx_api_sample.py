@@ -1,7 +1,7 @@
 
 import requests
 
-base_url = "https://stockxapi.dataspiderhub.com/"
+base_url = "https://stockxapi.dataspiderhub.com"
 # Token needs to be applied for from the author and can be tested this week. Online testing can be seen at https://stockxapi.dataspiderhub.com/docs
 # Contact the author Email: mocca_lee@outlook.com Discord: sting_lee
 TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
