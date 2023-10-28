@@ -18,6 +18,7 @@ CommercialStockXAPI supports the following interfaces for StockX:
 
   - Init DeviceID
   - Search for products
+  - Search for products by GTIN(GTIN is the barcode number on the shoebox)
   - Get historical sales records of specified products
   - Get product details of specified products
   - Get product size and price information
@@ -36,6 +37,7 @@ CommercialStockXAPI supports the following interfaces for StockX:
   - Cancel product listing
   - Modify/Update product price (individual/batch)
   - List products for sale (individual/batch)
+  - BID product
 
   - Other interfaces:
     - Support additional interfaces as per your requirements
