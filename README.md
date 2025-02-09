@@ -17,11 +17,17 @@ If you also need Goat/Alias API, please refer to [CommercialGoatAPI](https://git
 CommercialStockXAPI supports the following interfaces for StockX:
 
   - Init DeviceID
-  - Search for products
+  - Search for products (with all params)
   - Search for products by GTIN(GTIN is the barcode number on the shoebox)
   - Get historical sales records of specified products
+  - Get ask price of specified products
+  - Get bid price of specified products
   - Get product details of specified products
   - Get product size and price information
+  - Get product sales official suggested price
+  - Get market data for products, including the highest price, lowest price, trading range, price fluctuation, sales volume, average price
+  - Get product historical price
+  - Login
   - Get User self information
   - Get User seller information
   - Update access_token
@@ -30,10 +36,12 @@ CommercialStockXAPI supports the following interfaces for StockX:
   - Query the history sold. Return the product list.
   - Query the order detail. Return the order detail.
   - Enable vacation mode
+  - Get the shipping label pdf
   - Create shipment
   - Get shipment list
   - Get shipment details(include shipping label url)
   - Request shipping extension
+  - Cancel order
   - Cancel product listing
   - Modify/Update product price (individual/batch)
   - List products for sale (individual/batch)
