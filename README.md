@@ -1,5 +1,7 @@
 # CommercialStockXAPI
 
+**(The project has been under long-term maintenance since 2022, stable and reliable**. We look forward to your cooperation)
+
 CommercialStockXAPI is a project that provides remote HTTP access to the StockX API. It supports all interfaces of this platforms and serves as a global sneaker seller's tool, assisting in automating processes such as selling sneakers. The interfaces are actively maintained to ensure long-term availability.
 
 For detailed information about the interfaces, please refer to the following guides:
